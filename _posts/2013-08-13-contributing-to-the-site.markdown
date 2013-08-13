@@ -1,5 +1,9 @@
-ecsig.com
-=========
+---
+layout: post
+title:  "Contributing to the site"
+date:   2013-08-13 15:02:12
+tags: [jekyll, ECSIG]
+---
 
 This site uses [Jekyll][jekyll] to build a static set of pages. Using it to
 add new pages and posts is fairly straightforward, but what follows is
@@ -40,4 +44,3 @@ Source for the site can be found [here][ecsig-gh].
 
 [ecsig-gh]: https://github.com/ECSIG/ecsig.com
 [jekyll]:    http://jekyllrb.com
-
