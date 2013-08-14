@@ -46,7 +46,7 @@ The community is currently private (with no way to switch it at the moment!) so 
 
 ####Moderators
 
-Brad Boudreau, Dan Masterson, Chris SimsJared Patton
+Brad Boudreau, Dan Masterson, Chris Sims, Jared Patton
 
 
 

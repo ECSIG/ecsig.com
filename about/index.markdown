@@ -9,7 +9,7 @@ This is the site for the Engineering and Computer Science Interest Group at the 
 ##ACM
 We are an ACM Student Chapter.
 
-##Current Membership
+##Active Membership
 Our group consists of the following people:
 
 Brad "digitalmonk" Boudreau  
