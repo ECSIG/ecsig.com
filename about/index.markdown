@@ -12,11 +12,11 @@ We are an ACM Student Chapter.
 ##Current Membership
 Our group consists of the following people:
 
-- Brad "digitalmonk" Boudreau
-- Jake Tobak
-- Chris "jcsims" Sims
-- Dan Masterson
-- Scott Bauer
-- Jared Patton
-- Greg "mainframer" Gardner
-- Jason "mumbles" Stedman
+Brad "digitalmonk" Boudreau  
+Jake Tobak  
+Chris "jcsims" Sims  
+Dan Masterson  
+Scott Bauer  
+Jared Patton  
+Greg "mainframer" Gardner  
+Jason "mumbles" Stedman  
