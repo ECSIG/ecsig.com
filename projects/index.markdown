@@ -5,17 +5,14 @@ title: Projects
 
 Here are a list of the projects our members are currently involved with.
 
-#Projects
+##[GitHub][github]
 
-##GitHub
-
-We develop open source software. Any presentations that we've done in
-the past are also hosted here. Check us out on [Github][github].
+We develop open source software. All ECSIG projects and presentation slides are hosted here.
 
 
-##JIRCC
+##[JIRCC][jircc]
 
-The Java Internet Relay Chat Client. For more information see [here][jircc].
+The Java Internet Relay Chat Client. Also hosted on Github.
 
 
 [github]: http://github.com/ecsig
