@@ -7,7 +7,7 @@ title: About
 This is the site for the Engineering and Computer Science Interest Group at the University of Rhode Island.
 
 ##ACM
-We are an ACM Student Chapter.
+We the ACM Student Chapter for the University of Rhode Island.
 
 ##Active Membership
 Our group consists of the following people:
@@ -15,7 +15,7 @@ Our group consists of the following people:
 Brad "digitalmonk" Boudreau  
 Jake Tobak  
 Chris "jcsims" Sims  
-Dan Masterson  
+Dan Masterson
 Scott Bauer  
 Jared Patton  
 Greg "mainframer" Gardner  
