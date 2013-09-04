@@ -3,13 +3,13 @@ layout: default
 title: Social
 ---
 
-<!---
+<!--
 In-Person meeting times
 Where?
 When?
 Frequency?
 Where announced?
---->
+-->
 
 #Where to Find Us
 
@@ -25,7 +25,6 @@ We use the forums to maintain the minutes for our meetings.
 The community is currently private (with no way to switch it at the moment!) so if you would like access, please let one of the G+ moderators know.
 
 #Moderators
-
 Brad Boudreau, Dan Masterson, Chris Sims, Jared Patton
 
 ##Social Code of Conduct
@@ -35,7 +34,6 @@ Discriminatory, derogatory, and defamatory language and/or actions are not permi
 No illegal activities are permitted (US/Rhode Island laws apply).
 Sub communities are allowed to impose stricter rules than what is provided here, but never more lenient rules
 Anything that community moderators deem to be disruptive to this or related services will not permitted.
-
 
 
 [chat]: http://ecsig.com/chat
