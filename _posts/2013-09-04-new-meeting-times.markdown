@@ -12,10 +12,11 @@ ECSIG meetings occur in Tyler Hall and online using Google Hangouts.
 
 IRL meetings
 
-- Mondays, 6:00pm - 7:00pm
-- Tyler Lounge
+- When:  *Tuesdays, 5:30pm - 6:30pm*
+- Where: *Tyler Lounge*
 
 Google Hangouts
 
-- Wenesdays,  7-ish
-- The cloud, brah.
+- When:  *Whenever-day, evenings*
+- Where: *The cloud, brah.*
+
