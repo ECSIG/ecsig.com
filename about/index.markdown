@@ -15,7 +15,7 @@ Our group consists of the following people:
 Brad "digitalmonk" Boudreau  
 Jake Tobak  
 Chris "jcsims" Sims  
-Dan Masterson
+Dan Masterson  
 Scott Bauer  
 Jared Patton  
 Greg "mainframer" Gardner  
