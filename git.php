@@ -17,6 +17,7 @@
                 'git submodule sync',
                 'git submodule update',
                 'git submodule status',
+		'jekyll build',
 		'rm -rf /srv/www/ecsig.com/public_html',
 		'cp /srv/www/ecsig.com/public_html_git/_site /srv/www/ecsig.com/public_html'
         );
