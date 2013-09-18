@@ -15,11 +15,12 @@ Where announced?
 
 [IRC][chat] is where we tend to hang out.
 We host a mibbit web client that can direct you to the chat,
-or you can use one of any number of IRC clients to connect to the server irc.ecsig.com (port 6667 or 6697[SSL]).
+or you can use one of any number of IRC clients to connect to the server: irc.ecsig.com (port 6667 or 6697[SSL]).
 
 [The Forums] [forums] are a list of our more stable, slower running conversations.
 Most importantly, it's where we store the conversations we want to keep track of.
-We use the forums to maintain the minutes for our meetings.
+We use the forums to maintain the minutes for our meetings. They currently require approval for new members,
+so please hop on IRC to let us know who you are!
 
 [Google+][g_plus] is a similar idea to our forums and a foray into our social networking measures.
 The community is currently private (with no way to switch it at the moment!) so if you would like access, please let one of the G+ moderators know.
