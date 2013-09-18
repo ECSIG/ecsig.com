@@ -29,12 +29,12 @@ The community is currently private (with no way to switch it at the moment!) so 
 Brad Boudreau, Dan Masterson, Chris Sims, Jared Patton
 
 ##Social Code of Conduct
-Enforcement and Interpretation of these rules is at the discretion of the community moderators (IRC ops, forums mods, etc).
-No harassment, intimidation or bullying of another person.
-Discriminatory, derogatory, and defamatory language and/or actions are not permitted in any manner.
-No illegal activities are permitted (US/Rhode Island laws apply).
-Sub communities are allowed to impose stricter rules than what is provided here, but never more lenient rules
-Anything that community moderators deem to be disruptive to this or related services will not permitted.
+* Enforcement and Interpretation of these rules is at the discretion of the community moderators (IRC ops, forums mods, etc).
+* No harassment, intimidation or bullying of another person.
+* Discriminatory, derogatory, and defamatory language and/or actions are not permitted in any manner.
+* No illegal activities are permitted (US/Rhode Island laws apply).
+* Sub communities are allowed to impose stricter rules than what is provided here, but never more lenient rules.
+* Anything that community moderators deem to be disruptive to this or related services will not permitted.
 
 
 [chat]: http://ecsig.com/chat
