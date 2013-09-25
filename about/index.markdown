@@ -7,7 +7,7 @@ title: About
 This is the site for the Engineering and Computer Science Interest Group at the University of Rhode Island.
 
 ##ACM
-We the ACM Student Chapter for the University of Rhode Island.
+We are the ACM Student Chapter for the University of Rhode Island.
 
 ##Active Membership
 Our group consists of the following people:
@@ -19,4 +19,4 @@ Dan Masterson
 Scott Bauer  
 Jared Patton  
 Greg "mainframer" Gardner  
-Jason "mumbles" Stedman  
+Jason "mumbles" Stedman
