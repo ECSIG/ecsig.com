@@ -14,7 +14,7 @@ A general overview:
 - Push to your branch on Github, and submit a pull request
 - Someone with push rights on the repo reviews the request, starts
   a conversation about changes if necessary, and eventually pulls
-- Bug Brad, Jake, or Chris about pushing the change to the server
+- A Github web hook will take care of getting the changes reflected on the website
 
 If you have questions about any of these steps, don't be afraid to ask!
 
