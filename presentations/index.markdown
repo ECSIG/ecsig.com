@@ -11,7 +11,7 @@ All of our slides are archived on the [ECSIG Github][github].
 - 10/15 Intro to Emacs
 - 10/08 ECSIG Forum Bot
 - 10/01 Intro to Regex
-- 09/24 Intro to Latexi  [slides][latex-slides] [photos][latex-photos]
+- 09/24 Intro to LaTeX  [slides][latex-slides] [photos][latex-photos]
 - 09/17 Intro to ECSIG's Resources  [slides][ecsig-resources-slides]
 
 <!-- List latest links at the top-->
