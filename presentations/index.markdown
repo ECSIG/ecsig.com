@@ -4,7 +4,9 @@ title:  "ESCIG Event Schedule [Fall 2013]"
 ---
 
 #ECSIG Presentations
-Members often volunteer to give presentations during our weekly meetings.
+Members often volunteer to give presentations during our weekly meetings. 
+These presentations typically take place in Tyler Hall room 052, or in one of the computer
+labs if we don't fit in 052.
 All of our slides are archived on the [ECSIG Github][github]. 
 
 - 10/22 TBA
