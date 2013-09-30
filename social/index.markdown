@@ -25,10 +25,11 @@ so please hop on IRC to let us know who you are!
 [Google+][g_plus] is a similar idea to our forums and a foray into our social networking measures.
 The community is currently private (with no way to switch it at the moment!) so if you would like access, please let one of the G+ moderators know.
 
-#Moderators
+##Moderators
 Brad Boudreau, Dan Masterson, Chris Sims, Jared Patton
 
 ##Social Code of Conduct
+* Please send a private message to the Mods if you feel that this code is violated.
 * Enforcement and Interpretation of these rules is at the discretion of the community moderators (IRC ops, forums mods, etc).
 * No harassment, intimidation or bullying of another person.
 * Discriminatory, derogatory, and defamatory language and/or actions are not permitted in any manner.
