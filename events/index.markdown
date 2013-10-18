@@ -12,7 +12,7 @@ our slides are archived on the [ECSIG Github][github].
 #Events
 Occasionally we'll hold larger events which typically involve more
 group members, and may require a bit of preparation for
-participants. Events are marked in the list below.
+participants. Events are marked in bold in the list below.
 
 *September*
 
