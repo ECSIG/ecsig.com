@@ -3,17 +3,6 @@ layout: default
 title:  "ESCIG Events"
 ---
 
-#ECSIG Presentations
-Members often volunteer to give presentations during our weekly
-meetings.  These presentations typically take place in Tyler Hall room
-052, or in one of the computer labs if we don't fit in 052.  All of
-our slides are archived on the [ECSIG Github][github].
-
-#Events
-Occasionally we'll hold larger events which typically involve more
-group members, and may require a bit of preparation for
-participants. Events are marked in bold in the list below.
-
 *September*
 
 - 09/17 Intro to ECSIG's Resources  [Slides][ecsig-resources-slides]
@@ -25,7 +14,7 @@ participants. Events are marked in bold in the list below.
 - 10/08 ECSIG Forum Bot project
 - 10/15 Intro to Emacs [Forum Topic][emacs-topic] | [Slides][emacs-slides]
 - 10/22 Raspberry Pi project
-- 10/29 **Keysigning Event** @ 5:30 PM in Tyler 055
+- 10/29 **Keysigning Party** @ 5:30 PM in Tyler 055
   [Forum Topic][keysigning-forums]
 
 *November*
