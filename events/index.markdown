@@ -20,7 +20,7 @@ title:  "ESCIG Events"
 *November*
 
 - 11/05 Preperation for LinuxFest 
-- 11/12 **LinuxFest** @ 1:00 PM Tyler 055 [Forum Topic][linuxfest-forums]
+- 11/26 **LinuxFest** @ 2:00-5:00 PM Tyler 055 [Forum Topic][linuxfest-forums]
 
 <!-- List latest links at the top-->
 
