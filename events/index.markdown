@@ -20,7 +20,13 @@ title:  "ESCIG Events"
 *November*
 
 - 11/05 Preperation for LinuxFest 
-- 11/26 **LinuxFest** @ 2:00-5:00 PM Tyler 055 [Forum Topic][linuxfest-forums]
+- 11/26 **LinuxFest** @ 2:00-5:00 PM Tyler 055 [Forum Topic][linuxfest-forums] (Details below)
+
+----
+**LinuxFest**
+
+Join the us on November 26th in Tyler Hall room 052 for LinuxFest! The goal of this event is to encourage awareness and usage of open source operating systems. From 1pm to 4pm our coordinators will giving presentations that explain the history and benefits of these operating systems to unfamiliar students, as well as describe the basics of installation procedures. Several Operating Systems will be on display for students to interact with as coordinators stand by to encourage and answer any questions. Install disks will be available along with installation instructions.  Also free pizza!
+
 
 <!-- List latest links at the top-->
 
